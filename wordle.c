@@ -25,8 +25,6 @@ int checkcorrect(int arr[]) {
 
 int main() {
 
-	int r = rand();
-	printf("%d",r);
 	char* correctword = "smile";
 
 	for (int i = 0; i < 6; i++) {
